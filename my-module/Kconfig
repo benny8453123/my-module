@@ -1,0 +1,8 @@
+menu "My module test"
+config MY_MODULE
+	tristate "Testing module"
+	default m
+	help
+	  This is the module for Ben learning
+
+endmenu
