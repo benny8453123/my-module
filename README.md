@@ -32,7 +32,7 @@ ben@ben-virtual-machine:/dev$ ll | grep my_chardev
 crw-r--r--   1 root root    235,   0  九   6 18:17 my_chardev
 ```
 
-:::info
+::: info
 mknod help
 ```
 ben@ben-virtual-machine:/dev$ mknod --help
